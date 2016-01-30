@@ -13,12 +13,12 @@ import java.util.Scanner;
     static final double Tgas = 4.72;        // Тариф за газ
 
     // Данные плательщика
-   
-
-
-
-
-
+    public static double Vkv;               // Площадь квартиры введенныая пользователем
+    public static double Vhvs;              // Объем израсходованного холодного водоснабжения
+    public static double Vgvs;              // Объем израсходованного горячего водоснабжения
+    public static double Vvod;              // Объем водоотведения
+    public static double Vel;               // Объем израсходованной электроэнергии
+    public static double Vgas;              // Объем израсходованного газа
 
     // Итоговые суммы
   
